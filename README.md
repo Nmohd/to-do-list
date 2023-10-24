@@ -11,11 +11,11 @@ Make sure you have the following software installed on your machine:
 ## Getting Started
 
 1. Clone the repository to your local machine:
-2. 
+   
 `https://github.com/Nmohd/to-do-list`
 
 3. Navigate to the project directory:
-4. 
+   
 `cd todo-list-app`
 
 ## Front-end (React)
