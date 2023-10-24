@@ -8,7 +8,7 @@ Make sure you have the following software installed on your machine:
 + Node.js (https://nodejs.org/)
 + npm (Node Package Manager, comes with Node.js)
 
-##Getting Started
+## Getting Started
 
 1.Clone the repository to your local machine:
 `https://github.com/Nmohd/to-do-list`
@@ -16,7 +16,7 @@ Make sure you have the following software installed on your machine:
 2.Navigate to the project directory:
 `cd todo-list-app`
 
-##Front-end (React)
+## Front-end (React)
 
 1.Navigate to the client directory:
 `cd client`
@@ -29,7 +29,7 @@ Make sure you have the following software installed on your machine:
 
 The React app will be available at http://localhost:5173/ in your web browser.
 
-##Back-end (Node.js)
+## Back-end (Node.js)
 
 1.Open a new terminal window/tab and navigate to the project directory:
 `cd todo-list-app`
@@ -39,5 +39,39 @@ The React app will be available at http://localhost:5173/ in your web browser.
 
 3.Install the dependencies:
 `npm i`
+
+3.Start the Node.js server:
+`node index.js`
+
+The server will be running at http://localhost:5500/
+
+## Using the Application
+
+Visit http://localhost:5173/ in your web browser to access the to-do list application. You can add, edit, and delete tasks.
+
+## Project Structure
+
+client: Contains the React front-end code.
+server: Contains the Node.js back-end code.
+
+* root
+        - server
+            - index.js
+            - package.json
+        - client
+            - package.json
+
+Feel free to explore and modify the code to meet your needs!
+
+## Feedback and Issues
+
+If you encounter any issues or have suggestions for improvement, please contact me 
+:email: Email: najeebu50@gmail.com 
+:calling: Phone: +91-7207232093
+
+:blush: Happy coding! :+1:
+       
+
+
 
 
