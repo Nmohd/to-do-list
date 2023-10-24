@@ -49,7 +49,7 @@ The React app will be available at http://localhost:5173/ in your web browser.
 `npm i`
 
 6. Start the Node.js server:
-7. 
+
 `node index.js`
 
 The server will be running at http://localhost:5500/
