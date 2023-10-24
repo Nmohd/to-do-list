@@ -1,8 +1,8 @@
 .gradient {
   height: fit-content;
-  /* z-index: 3; */
+
   width: 100%;
-  /* max-width: 640px; */
+
   background-image: radial-gradient(
       at 27% 37%,
       hsla(215, 98%, 61%, 1) 0px,
@@ -31,7 +31,6 @@
   padding: 10px 60px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   border-radius: 5px;
-  /* opacity: 1 !important; */
   z-index: 5;
   position: relative;
 }
@@ -39,21 +38,11 @@
 h1 {
   text-align: center;
   font-size: 50px;
-  /* background: -webkit-linear-gradient(rgb(255, 149, 0) 0%); */
-  /* -webkit-background-clip: text; */
-  /* -webkit-text-fill-color: transparent; */
   background: #ea580c;
   background: linear-gradient(to left, #ea580c 24%, #f59e0b 51%, #ea580c 85%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-
-/* h1 {
-  font-size: 72px;
-  background: -webkit-linear-gradient(#eee, #333);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-} */
 
 .input-section {
   display: flex;
